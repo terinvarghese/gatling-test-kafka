@@ -1,0 +1,37 @@
+*.class
+*.log
+
+# Package files
+*.war
+*.jar
+*.ear
+
+# Maven
+out/
+target/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# IDEA
+*.iml
+.idea
+
+# OSX
+.DS_STORE
+.Trashes
+
+# Windows
+Desktop.ini
+Thumbs.db
+
+# Python
+*.pyc
+
+# Project specific
+merged-dependencies.dot.png
+
+# Backup files
+*.bak
